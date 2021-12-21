@@ -17,4 +17,4 @@ For the project problem, let s denotes number of seats remaining, d denotes actu
 </p>
 
 ### Results:
-The main.py file is going to generate two excel file, where **optimal action** and **optimal action value** are respectively stored.
+The main.py file generates 1 Excel file, where **optimal action** and its related **optimal action value** are respectively stored in different sheets.
