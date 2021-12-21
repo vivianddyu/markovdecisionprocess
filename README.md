@@ -11,6 +11,10 @@ A general form of bellman equation for each state s, at each period t is as foll
 <img src = 'https://github.com/vivianddyu/markovdecisionprocess/blob/main/data/bellman_1.PNG?raw=true'>
 </p>
 For the project problem, let s denotes number of seats remaining, d denotes actual demand for the day, and a denotes number of seats sold (ie: action taken) on that day. Below is the bellman equation for t = 15 days to go, with a request of 12 tickets at the $150 price for that day:
+
 <p align = 'center'>
 <img src = 'https://github.com/vivianddyu/markovdecisionprocess/blob/main/data/bellman_2.PNG?raw=true'>
 </p>
+
+### Results:
+The main.py file is going to generate two excel file, where **optimal action** and **optimal action value** are respectively stored.
