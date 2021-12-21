@@ -18,6 +18,3 @@ For the project problem, let s denotes number of seats remaining, d denotes actu
 
 ### Results:
 The main.py file generates 1 Excel file, where **optimal action** and its related **optimal action value** are respectively stored in different sheets.
-<p align = 'center'>
-<img src = 'https://github.com/vivianddyu/markovdecisionprocess/blob/main/data/output.PNG?raw=true'>
-</p>
